@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej048/v1
 canonical_location: https://kanripo.org/bkk/KR3ej048/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫宗金鑑·痘疹心法要訣
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ej048_001.yaml, hash: 'sha256:df085de3c1318a61c8f3b5cfb0691c0c2241079b31c79c352036bf3b4673d579'}
-  - {seq: 2, filename: KR3ej048_002.yaml, hash: 'sha256:0b270bc4fe7b01604b77e73d6f1f9d22b08d71e40b6a6c6c1e6ef7d81f16279e'}
-  - {seq: 3, filename: KR3ej048_003.yaml, hash: 'sha256:4af0e9c38b91d32c6bd1ebe92724adc5c6f6e98e59afc93b0167853b967e4197'}
-  - {seq: 4, filename: KR3ej048_004.yaml, hash: 'sha256:6575f32240f0a1930be1303778e4a1479e0a66802e2c6568d6963aa6e016f4d9'}
+  - {seq: 1, filename: KR3ej048_001.yaml, hash: 'sha256:335fe66d1a9696bf7e7a2dc12be4c25006e28cea26079ce3a1476cd63f8a6cf4'}
+  - {seq: 2, filename: KR3ej048_002.yaml, hash: 'sha256:05af86f708f98a38c39ec41ed19cc867fcc565e290f642fc31bf3b090a9d9aa2'}
+  - {seq: 3, filename: KR3ej048_003.yaml, hash: 'sha256:5c60d3d024367d3a1cede3fe8679e06acd3c5b80455544b9f5080214b172e244'}
+  - {seq: 4, filename: KR3ej048_004.yaml, hash: 'sha256:9e9df0e920220933431ef85dd9c5ce1d875e8e66b88c4fa5bc2c34f3932d5f0a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ej048_001.markers.yaml, hash: 'sha256:c622c7a0eb95440f8b232020eb3c1edff80b40eceaffba6e4dc2f6ec107cd912'}
-  - {seq: 2, role: markers, filename: assets/KR3ej048_002.markers.yaml, hash: 'sha256:52fe486d2fc83d1d478524ba0741d7ad80888363d29c0836cbddbf74806843c0'}
-  - {seq: 3, role: markers, filename: assets/KR3ej048_003.markers.yaml, hash: 'sha256:29e382e0cd0d683938d06d24024345fd4bffd46c67ecc5374a217d49d6ebf516'}
-  - {seq: 4, role: markers, filename: assets/KR3ej048_004.markers.yaml, hash: 'sha256:eca89ff47e28062a031bcfd449da6520c17cb64f02cb36bf69f84c09a1a93ea3'}
+  - {seq: 1, role: markers, filename: assets/KR3ej048_001.markers.yaml, hash: 'sha256:980ad0a32ae9fadae964e2c13f2f7381bda269b797f84c6e881eae26c1df19cf'}
+  - {seq: 2, role: markers, filename: assets/KR3ej048_002.markers.yaml, hash: 'sha256:c0eebc87f7e16ba765fe5faef808394c3eecc6605be67abe764442bab89518f2'}
+  - {seq: 3, role: markers, filename: assets/KR3ej048_003.markers.yaml, hash: 'sha256:643a2c240e711646204989773d20ea549eb9101854ef91572968384438988bda'}
+  - {seq: 4, role: markers, filename: assets/KR3ej048_004.markers.yaml, hash: 'sha256:c9e9e7525146654c5078a198e577d33fb0901cf69e2436f758aef9406c36fcca'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1617,4 +1617,7 @@ table_of_contents:
   label: 癮疹
   type: section
   level: 3
-hash: sha256:716695d0943ce39a5af77bd5ca1eaf9d803864262b9747e7f9aa8b0038ca42b9
+hash: sha256:df6d1ca84113a22e7c91abd9ab7e342a35ec023be71a05d511948a71af9ec520
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
